@@ -5,14 +5,14 @@
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/favicon.png",
   "colors": {
-    "primary": "#2F1C42",
+    "primary": "#6018F5",
     "light": "#FCA304",
-    "dark": "#2F1C42",
+    "dark": "#6018F5",
     "anchors": {
-      "from": "#A401C0",
-      "to": "#2F1C42"
+      "from": "#6018F5",
+      "to": "#6018F5"
     }
   },
   "topbarLinks": [
@@ -43,8 +43,22 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "development"
+        "quickstart"
+      ]
+    },
+    {
+      "group": "About",
+      "pages": [
+        "about/what",
+        "about/how"
+      ]
+    },
+    {
+      "group": "Info",
+      "pages": [
+        "info/contributing",
+        "info/maintainers",
+        "info/press"
       ]
     }
   ],
