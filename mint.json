@@ -58,7 +58,8 @@
       "pages": [
         "info/contributing",
         "info/maintainers",
-        "info/press"
+        "info/press",
+        "info/bugs"
       ]
     }
   ],
