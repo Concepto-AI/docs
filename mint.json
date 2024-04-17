@@ -61,6 +61,20 @@
         "info/press",
         "info/bugs"
       ]
+    },
+    {
+      "group": "Plus",
+      "pages": [
+        "plus/gettingstarted"
+      ]
+    },
+    {
+      "group": "Lite (API Edition)",
+      "pages": [
+        "lite/gettingstarted",
+        "lite/common-errors",
+        "lite/getting-your-openai-key"
+      ]
     }
   ],
   "footerSocials": {
